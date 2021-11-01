@@ -115,3 +115,4 @@ dmypy.json
 
 #jupyter notebooks
 *.ipynb
+j.bat
