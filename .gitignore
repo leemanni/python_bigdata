@@ -114,5 +114,5 @@ dmypy.json
 .pyre/
 
 #jupyter notebooks
-*.ipynb
+#*.ipynb
 j.bat
